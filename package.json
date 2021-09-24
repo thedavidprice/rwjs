@@ -1,8 +1,11 @@
 {
   "name": "rwjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "redwoodjs package for use with npx",
   "main": "index.js",
+  "bin": {
+    "rwjs": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
