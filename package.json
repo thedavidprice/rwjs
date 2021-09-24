@@ -1,0 +1,15 @@
+{
+  "name": "rwjs",
+  "version": "0.0.1",
+  "description": "redwoodjs package for use with npx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedavidprice/rwjs.git"
+  },
+  "author": "David S Price",
+  "license": "MIT"
+}
